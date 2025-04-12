@@ -32,5 +32,7 @@ O script insere três funcionários como exemplo:
 INSERT INTO Funcionario VALUES ('01', 'João', 'joaoaugusto@gmail.com');
 INSERT INTO Funcionario VALUES ('02', 'Miguel', 'miguelaparecido@gmail.com');
 INSERT INTO Funcionario VALUES ('03', 'Mariano', 'marianogoncalves@gmail.com');
-![image](https://github.com/user-attachments/assets/b257c39b-d783-4363-a3aa-678352543bc4)
+
+![image](https://github.com/user-attachments/assets/743fa47f-1a9d-4a0e-94f3-0d5d53299e14)
+
 
