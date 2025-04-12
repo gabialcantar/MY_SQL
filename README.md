@@ -25,6 +25,9 @@ Este repositório contém o código SQL para um banco de dados simples, utilizad
   - `Nome_Produto`: Nome do produto (VARCHAR(50))
   - `preco_produto`: Preço do produto (DECIMAL(5,2))
   - `estoque`: Quantidade de produtos no estoque (VARCHAR(3))
+ 
+![image](https://github.com/user-attachments/assets/fc4c62be-7ece-4ebe-a2ad-dc02d9f4e4d0)
+
 
 ### 2. **Inserção de Dados**
 O script insere três funcionários como exemplo:
@@ -33,6 +36,5 @@ INSERT INTO Funcionario VALUES ('01', 'João', 'joaoaugusto@gmail.com');
 INSERT INTO Funcionario VALUES ('02', 'Miguel', 'miguelaparecido@gmail.com');
 INSERT INTO Funcionario VALUES ('03', 'Mariano', 'marianogoncalves@gmail.com');
 
-![image](https://github.com/user-attachments/assets/743fa47f-1a9d-4a0e-94f3-0d5d53299e14)
 
 
